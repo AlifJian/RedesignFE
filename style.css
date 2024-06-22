@@ -1,0 +1,1419 @@
+.website-GDSC-UNSRI {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  position: relative;
+  background-color: #ffffff;
+}
+
+.website-GDSC-UNSRI .header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 24px 72px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+  z-index: 11;
+  background-color: var(--basebase-50);
+  border-top-style: none;
+  border-right-style: none;
+  border-bottom-width: 1px;
+  border-bottom-style: solid;
+  border-left-style: none;
+  border-color: var(--neutralne-100);
+}
+
+.website-GDSC-UNSRI .logo {
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.website-GDSC-UNSRI .navbar {
+  display: inline-flex;
+  align-items: center;
+  justify-content: flex-end;
+  gap: 20px;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.website-GDSC-UNSRI .strong-about-wrapper {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 9.5px;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.website-GDSC-UNSRI .strong-about {
+  position: relative;
+  width: 40px;
+  font-family: "Poppins", Helvetica;
+  font-weight: 400;
+  color: var(--neutralne-500);
+  font-size: 14px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 19px;
+  white-space: nowrap;
+}
+
+.website-GDSC-UNSRI .strong-about-wrapper:hover .strong-about {
+  color: #427EDE;
+  font-weight: 400;
+}
+
+.website-GDSC-UNSRI .text-wrapper:hover{
+  color: #427EDE;
+  font-weight: 400;
+}
+
+.website-GDSC-UNSRI .text-wrapper {
+  position: relative;
+  width: fit-content;
+  font-family: "Poppins", Helvetica;
+  font-weight: 400;
+  color: var(--neutralne-500);
+  font-size: 13.3px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 19px;
+  white-space: nowrap;
+}
+
+.website-GDSC-UNSRI .mingcute-search-line {
+  position: relative;
+  width: 22.8px;
+  height: 22.8px;
+}
+
+.website-GDSC-UNSRI .avatar {
+  position: relative;
+  width: 40px;
+  height: 40px;
+  object-fit: cover;
+  border-radius: 60px;
+}
+
+.website-GDSC-UNSRI .hero-section {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 32px;
+  padding: 64px 0px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+  z-index: 10;
+  background-color: var(--basebase-50);
+}
+
+.website-GDSC-UNSRI .banner {
+  position: relative;
+  width: 1076px;
+  height: 272.65px;
+}
+
+.website-GDSC-UNSRI .heading {
+  display: flex;
+  flex-direction: column;
+  width: 1076px;
+  align-items: center;
+  gap: 16px;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.website-GDSC-UNSRI .text {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  font-family: var(--heading-h3-40px-bold-font-family);
+  font-weight: var(--heading-h3-40px-bold-font-weight);
+  color: #292c39;
+  font-size: var(--heading-h3-40px-bold-font-size);
+  letter-spacing: var(--heading-h3-40px-bold-letter-spacing);
+  line-height: var(--heading-h3-40px-bold-line-height);
+  white-space: nowrap;
+  font-style: var(--heading-h3-40px-bold-font-style);
+}
+
+.website-GDSC-UNSRI .div {
+  position: relative;
+  width: fit-content;
+  font-family: var(--body-xxlarge-24px-regular-font-family);
+  font-weight: var(--body-xxlarge-24px-regular-font-weight);
+  color: var(--neutralne-900);
+  font-size: var(--body-xxlarge-24px-regular-font-size);
+  letter-spacing: var(--body-xxlarge-24px-regular-letter-spacing);
+  line-height: var(--body-xxlarge-24px-regular-line-height);
+  white-space: nowrap;
+  font-style: var(--body-xxlarge-24px-regular-font-style);
+}
+
+.website-GDSC-UNSRI .join-us-section {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+  padding: 8px 0px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+  z-index: 9;
+  background-color: var(--basebase-200);
+}
+
+.website-GDSC-UNSRI .button {
+  all: unset;
+  box-sizing: border-box;
+  display: inline-flex;
+  flex-direction: column;
+  gap: 10px;
+  align-items: center;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.website-GDSC-UNSRI .div-wrapper {
+  all: unset;
+  box-sizing: border-box;
+  display: flex;
+  height: 44px;
+  align-items: center;
+  justify-content: center;
+  gap: 8px;
+  padding: 10px 18px;
+  position: relative;
+  width: 127px;
+  background-color: var(--primarypr-600);
+  border-radius: 8px;
+  overflow: hidden;
+  border: 1px solid;
+  border-color: var(--primarypr-600);
+}
+
+.website-GDSC-UNSRI .text-2 {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  font-family: var(--body-large-16px-semi-font-family);
+  font-weight: var(--body-large-16px-semi-font-weight);
+  color: var(--basebase-50);
+  font-size: var(--body-large-16px-semi-font-size);
+  letter-spacing: var(--body-large-16px-semi-letter-spacing);
+  line-height: var(--body-large-16px-semi-line-height);
+  white-space: nowrap;
+  font-style: var(--body-large-16px-semi-font-style);
+}
+
+.website-GDSC-UNSRI .about-section {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 64px;
+  padding: 64px 222px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+  z-index: 8;
+  background-color: var(--basebase-50);
+}
+
+.website-GDSC-UNSRI .text-wrapper-2 {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  font-family: var(--heading-h4-32px-bold-font-family);
+  font-weight: var(--heading-h4-32px-bold-font-weight);
+  color: var(--neutralneu-1000);
+  font-size: var(--heading-h4-32px-bold-font-size);
+  text-align: center;
+  letter-spacing: var(--heading-h4-32px-bold-letter-spacing);
+  line-height: var(--heading-h4-32px-bold-line-height);
+  white-space: nowrap;
+  font-style: var(--heading-h4-32px-bold-font-style);
+}
+
+.website-GDSC-UNSRI .text-3 {
+  display: flex;
+  flex-direction: column;
+  width: 1076px;
+  align-items: center;
+  gap: 24px;
+  position: relative;
+  flex: 0 0 auto;
+  margin-left: -40px;
+  margin-right: -40px;
+}
+
+.website-GDSC-UNSRI .welcome {
+  position: relative;
+  align-self: stretch;
+  margin-top: -1px;
+  font-family: var(--body-xxlarge-24px-bold-font-family);
+  font-weight: var(--body-xxlarge-24px-bold-font-weight);
+  color: transparent;
+  font-size: var(--body-xxlarge-24px-bold-font-size);
+  text-align: center;
+  letter-spacing: var(--body-xxlarge-24px-bold-letter-spacing);
+  line-height: var(--body-xxlarge-24px-bold-line-height);
+  font-style: var(--body-xxlarge-24px-bold-font-style);
+}
+
+.website-GDSC-UNSRI .span {
+  color: #202124;
+  font-family: var(--body-xxlarge-24px-bold-font-family);
+  font-style: var(--body-xxlarge-24px-bold-font-style);
+  font-weight: var(--body-xxlarge-24px-bold-font-weight);
+  letter-spacing: var(--body-xxlarge-24px-bold-letter-spacing);
+  line-height: var(--body-xxlarge-24px-bold-line-height);
+  font-size: var(--body-xxlarge-24px-bold-font-size);
+}
+
+.website-GDSC-UNSRI .text-wrapper-3 {
+  color: #427ede;
+  font-family: var(--body-xxlarge-24px-bold-font-family);
+  font-style: var(--body-xxlarge-24px-bold-font-style);
+  font-weight: var(--body-xxlarge-24px-bold-font-weight);
+  letter-spacing: var(--body-xxlarge-24px-bold-letter-spacing);
+  line-height: var(--body-xxlarge-24px-bold-line-height);
+  font-size: var(--body-xxlarge-24px-bold-font-size);
+}
+
+.website-GDSC-UNSRI .text-wrapper-4 {
+  color: #e94433;
+  font-family: var(--body-xxlarge-24px-bold-font-family);
+  font-style: var(--body-xxlarge-24px-bold-font-style);
+  font-weight: var(--body-xxlarge-24px-bold-font-weight);
+  letter-spacing: var(--body-xxlarge-24px-bold-letter-spacing);
+  line-height: var(--body-xxlarge-24px-bold-line-height);
+  font-size: var(--body-xxlarge-24px-bold-font-size);
+}
+
+.website-GDSC-UNSRI .text-wrapper-5 {
+  color: #fabd05;
+  font-family: var(--body-xxlarge-24px-bold-font-family);
+  font-style: var(--body-xxlarge-24px-bold-font-style);
+  font-weight: var(--body-xxlarge-24px-bold-font-weight);
+  letter-spacing: var(--body-xxlarge-24px-bold-letter-spacing);
+  line-height: var(--body-xxlarge-24px-bold-line-height);
+  font-size: var(--body-xxlarge-24px-bold-font-size);
+}
+
+.website-GDSC-UNSRI .text-wrapper-6 {
+  color: #2da96a;
+  font-family: var(--body-xxlarge-24px-bold-font-family);
+  font-style: var(--body-xxlarge-24px-bold-font-style);
+  font-weight: var(--body-xxlarge-24px-bold-font-weight);
+  letter-spacing: var(--body-xxlarge-24px-bold-letter-spacing);
+  line-height: var(--body-xxlarge-24px-bold-line-height);
+  font-size: var(--body-xxlarge-24px-bold-font-size);
+}
+
+.website-GDSC-UNSRI .support-text {
+  position: relative;
+  align-self: stretch;
+  font-family: var(--body-large-16px-regular-font-family);
+  font-weight: var(--body-large-16px-regular-font-weight);
+  color: var(--neutralne-900);
+  font-size: var(--body-large-16px-regular-font-size);
+  text-align: center;
+  letter-spacing: var(--body-large-16px-regular-letter-spacing);
+  line-height: var(--body-large-16px-regular-line-height);
+  font-style: var(--body-large-16px-regular-font-style);
+}
+
+.website-GDSC-UNSRI .upcoming-events {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 64px;
+  padding: 64px 222px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+  z-index: 7;
+  background-color: var(--basebase-50);
+}
+
+.website-GDSC-UNSRI .frame {
+  display: flex;
+  width: 1076px;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+  position: relative;
+  flex: 0 0 auto;
+  margin-left: -40px;
+  margin-right: -40px;
+}
+
+.website-GDSC-UNSRI .heading-upcoming-wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 16px;
+  position: relative;
+  flex: 1;
+  flex-grow: 1;
+}
+
+.website-GDSC-UNSRI .heading-upcoming {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  font-family: var(--heading-h4-32px-bold-font-family);
+  font-weight: var(--heading-h4-32px-bold-font-weight);
+  color: var(--neutralneu-1000);
+  font-size: var(--heading-h4-32px-bold-font-size);
+  letter-spacing: var(--heading-h4-32px-bold-letter-spacing);
+  line-height: var(--heading-h4-32px-bold-line-height);
+  white-space: nowrap;
+  font-style: var(--heading-h4-32px-bold-font-style);
+}
+
+.website-GDSC-UNSRI .search {
+  display: flex;
+  width: 400px;
+  height: 52px;
+  align-items: center;
+  gap: 12px;
+  padding: 20px;
+  position: relative;
+  background-color: var(--basebase-200);
+  border-radius: 16px;
+  border: 1px solid;
+  border-color: var(--neutralne-100);
+}
+
+.website-GDSC-UNSRI .img {
+  position: relative;
+  width: 20px;
+  height: 20px;
+  margin-top: -4px;
+  margin-bottom: -4px;
+}
+
+.website-GDSC-UNSRI .input {
+  position: relative;
+  flex: 1;
+  font-family: var(--body-large-16px-regular-font-family);
+  font-weight: var(--body-large-16px-regular-font-weight);
+  color: var(--greyscale-400);
+  font-size: var(--body-large-16px-regular-font-size);
+  letter-spacing: var(--body-large-16px-regular-letter-spacing);
+  line-height: var(--body-large-16px-regular-line-height);
+  font-style: var(--body-large-16px-regular-font-style);
+  background: transparent;
+  border: none;
+  padding: 0;
+}
+
+.website-GDSC-UNSRI .container {
+  display: flex;
+  flex-direction: column;
+  width: 1076px;
+  align-items: center;
+  justify-content: center;
+  gap: 32px;
+  position: relative;
+  flex: 0 0 auto;
+  margin-left: -40px;
+  margin-right: -40px;
+}
+
+.website-GDSC-UNSRI .cards {
+  display: flex;
+  height: 355.75px;
+  align-items: flex-start;
+  justify-content: space-between;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+}
+
+.website-GDSC-UNSRI .card {
+  display: flex;
+  flex-direction: column;
+  width: 249.32px;
+  height: 357.21px;
+  align-items: center;
+  gap: 14.58px;
+  padding: 14.58px;
+  position: relative;
+  margin-top: -0.73px;
+  margin-bottom: -0.73px;
+  margin-left: -0.73px;
+  background-color: #ffffff;
+  border-radius: 11.66px;
+  overflow: hidden;
+  border: 0.73px solid;
+  border-color: var(--neutralne-100);
+  box-shadow: 2.92px 2.92px 72.9px #0000000d, -2.92px -2.92px 72.9px #0000000d;
+}
+
+.website-GDSC-UNSRI .img-2 {
+  position: relative;
+  width: 218.7px;
+  height: 218.7px;
+  border-radius: 11.66px;
+  background-image: url(./img/img.png);
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.website-GDSC-UNSRI .frame-2 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 11.66px;
+  padding: 0px 5.83px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.website-GDSC-UNSRI .p {
+  position: relative;
+  align-self: stretch;
+  margin-top: -0.73px;
+  font-family: "Poppins", Helvetica;
+  font-weight: 700;
+  color: var(--neutralneu-1000);
+  font-size: 13.1px;
+  letter-spacing: 0;
+  line-height: 20.4px;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+}
+
+.website-GDSC-UNSRI .frame-3 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+  gap: 5.83px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.website-GDSC-UNSRI .frame-4 {
+  display: inline-flex;
+  align-items: center;
+  gap: 5.83px;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.website-GDSC-UNSRI .icon {
+  position: relative;
+  width: 14.58px;
+  height: 14.58px;
+}
+
+.website-GDSC-UNSRI .text-wrapper-7 {
+  position: relative;
+  width: fit-content;
+  margin-top: -0.73px;
+  font-family: "Poppins", Helvetica;
+  font-weight: 500;
+  color: var(--neutralne-600);
+  font-size: 11.7px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 17.5px;
+  white-space: nowrap;
+}
+
+.website-GDSC-UNSRI .card-2 {
+  flex-direction: column;
+  width: 247.86px;
+  height: 355.75px;
+  align-items: center;
+  gap: 14.58px;
+  padding: 14.58px;
+  background-color: #ffffff;
+  border-radius: 11.66px;
+  overflow: hidden;
+  border: 0.73px solid;
+  border-color: var(--neutralne-100);
+  box-shadow: 2.92px 2.92px 72.9px #0000000d, -2.92px -2.92px 72.9px #0000000d;
+  display: flex;
+  position: relative;
+}
+
+.website-GDSC-UNSRI .img-3 {
+  background-image: url(./img/img-1.png);
+  position: relative;
+  width: 218.7px;
+  height: 218.7px;
+  border-radius: 11.66px;
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.website-GDSC-UNSRI .frame-5 {
+  margin-bottom: -1.18px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 11.66px;
+  padding: 0px 5.83px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.website-GDSC-UNSRI .img-4 {
+  background-image: url(./img/img-2.png);
+  position: relative;
+  width: 218.7px;
+  height: 218.7px;
+  border-radius: 11.66px;
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.website-GDSC-UNSRI .frame-6 {
+  margin-bottom: -1.01px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 11.66px;
+  padding: 0px 5.83px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.website-GDSC-UNSRI .img-5 {
+  background-image: url(./img/img-3.png);
+  position: relative;
+  width: 218.7px;
+  height: 218.7px;
+  border-radius: 11.66px;
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.website-GDSC-UNSRI .v-icon {
+  display: flex;
+  width: 14.58px;
+  height: 14.58px;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+}
+
+.website-GDSC-UNSRI .icon-2 {
+  position: relative;
+  width: 11.66px;
+  font-family: "Font Awesome 6 Pro-Solid", Helvetica;
+  font-weight: 400;
+  color: var(--secondaryse-600);
+  font-size: 11.7px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.website-GDSC-UNSRI .past-events-section {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 64px;
+  padding: 64px 222px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+  z-index: 6;
+  background-color: var(--basebase-50);
+}
+
+.website-GDSC-UNSRI .search-2 {
+  overflow: hidden;
+  display: flex;
+  width: 400px;
+  height: 52px;
+  align-items: center;
+  gap: 12px;
+  padding: 20px;
+  position: relative;
+  background-color: var(--basebase-200);
+  border-radius: 16px;
+  border: 1px solid;
+  border-color: var(--neutralne-100);
+}
+
+.website-GDSC-UNSRI .img-6 {
+  background-image: url(./img/img-4.png);
+  position: relative;
+  width: 218.7px;
+  height: 218.7px;
+  border-radius: 11.66px;
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.website-GDSC-UNSRI .img-7 {
+  background-image: url(./img/img-5.png);
+  position: relative;
+  width: 218.7px;
+  height: 218.7px;
+  border-radius: 11.66px;
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.website-GDSC-UNSRI .img-8 {
+  background-image: url(./img/img-6.png);
+  position: relative;
+  width: 218.7px;
+  height: 218.7px;
+  border-radius: 11.66px;
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.website-GDSC-UNSRI .img-9 {
+  background-image: url(./img/img-7.png);
+  position: relative;
+  width: 218.7px;
+  height: 218.7px;
+  border-radius: 11.66px;
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.website-GDSC-UNSRI .organizers-section {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 64px;
+  padding: 64px 222px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+  z-index: 5;
+  background-color: var(--basebase-50);
+}
+
+.website-GDSC-UNSRI .frame-7 {
+  display: flex;
+  width: 1076px;
+  align-items: center;
+  justify-content: center;
+  gap: 64px;
+  position: relative;
+  flex: 0 0 auto;
+  margin-left: -40px;
+  margin-right: -40px;
+}
+
+.website-GDSC-UNSRI .octicon-chevron-up {
+  position: relative;
+  width: 40px;
+  height: 40px;
+}
+
+.website-GDSC-UNSRI .text-wrapper-8 {
+  position: relative;
+  flex: 1;
+  height: 48.4px;
+  margin-top: -1px;
+  font-family: var(--heading-h4-32px-bold-font-family);
+  font-weight: var(--heading-h4-32px-bold-font-weight);
+  color: var(--neutralneu-1000);
+  font-size: var(--heading-h4-32px-bold-font-size);
+  text-align: center;
+  letter-spacing: var(--heading-h4-32px-bold-letter-spacing);
+  line-height: var(--heading-h4-32px-bold-line-height);
+  white-space: nowrap;
+  font-style: var(--heading-h4-32px-bold-font-style);
+}
+
+.website-GDSC-UNSRI .card-group {
+  width: 1076px;
+  height: 306.18px;
+  align-items: flex-start;
+  justify-content: space-between;
+  margin-left: -40px;
+  margin-right: -40px;
+  display: flex;
+  position: relative;
+}
+
+.website-GDSC-UNSRI .card-3 {
+  flex-direction: column;
+  width: 233.28px;
+  height: 306.18px;
+  align-items: center;
+  justify-content: center;
+  gap: 9.48px;
+  padding: 0px 0px 11.66px;
+  background-color: #ffffff;
+  border-radius: 5.1px;
+  overflow: hidden;
+  border: 0.59px solid;
+  border-color: var(--neutralne-100);
+  box-shadow: 2.37px 2.37px 59.27px #0000000d, -2.37px -2.37px 59.27px #0000000d;
+  display: flex;
+  position: relative;
+}
+
+.website-GDSC-UNSRI .img-10 {
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+  border-radius: 10px 10px 0px 0px;
+}
+
+.website-GDSC-UNSRI .frame-8 {
+  display: flex;
+  flex-direction: column;
+  height: 91.12px;
+  align-items: center;
+  gap: 5.83px;
+  padding: 0px 11.66px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+}
+
+.website-GDSC-UNSRI .frame-9 {
+  display: flex;
+  height: 45.04px;
+  align-items: center;
+  justify-content: center;
+  gap: 5.93px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+}
+
+.website-GDSC-UNSRI .text-wrapper-9 {
+  position: relative;
+  width: fit-content;
+  font-family: "Poppins", Helvetica;
+  font-weight: 700;
+  color: #5f6368;
+  font-size: 17.5px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 26.2px;
+  white-space: nowrap;
+}
+
+.website-GDSC-UNSRI .text-wrapper-10 {
+  position: relative;
+  align-self: stretch;
+  font-family: "Poppins", Helvetica;
+  font-weight: 400;
+  color: var(--neutralne-700);
+  font-size: 13.1px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 20.4px;
+}
+
+.website-GDSC-UNSRI .strong-view-profile-wrapper {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 6px;
+  padding: 8px 16px;
+  position: relative;
+  flex: 0 0 auto;
+  background-color: var(--neutralne-900);
+  border-radius: 5.83px;
+  overflow: hidden;
+}
+
+.website-GDSC-UNSRI .strong-view-profile {
+  position: relative;
+  width: fit-content;
+  font-family: "Poppins", Helvetica;
+  font-weight: 700;
+  color: var(--basebase-50);
+  font-size: 10.7px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 16.6px;
+  white-space: nowrap;
+}
+
+.website-GDSC-UNSRI .card-4 {
+  flex-direction: column;
+  width: 233.28px;
+  height: 306.18px;
+  align-items: center;
+  justify-content: center;
+  gap: 9.48px;
+  padding: 0px 0px 11.66px;
+  background-color: #ffffff;
+  border-radius: 9.48px;
+  overflow: hidden;
+  border: 0.59px solid;
+  border-color: var(--neutralne-100);
+  box-shadow: 2.37px 2.37px 59.27px #0000000d, -2.37px -2.37px 59.27px #0000000d;
+  display: flex;
+  position: relative;
+}
+
+.website-GDSC-UNSRI .text-wrapper-11 {
+  position: relative;
+  flex: 1;
+  margin-top: -4.57px;
+  margin-bottom: -3.39px;
+  font-family: "Poppins", Helvetica;
+  font-weight: 700;
+  color: #5f6368;
+  font-size: 17.5px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 26.2px;
+}
+
+.website-GDSC-UNSRI .card-5 {
+  flex-direction: column;
+  width: 233.28px;
+  height: 306.18px;
+  align-items: center;
+  gap: 8px;
+  padding: 0px 0px 16px;
+  background-color: #ffffff;
+  border-radius: 9.48px;
+  overflow: hidden;
+  border: 0.59px solid;
+  border-color: var(--neutralne-100);
+  box-shadow: 2.37px 2.37px 59.27px #0000000d, -2.37px -2.37px 59.27px #0000000d;
+  display: flex;
+  position: relative;
+}
+
+.website-GDSC-UNSRI .frame-10 {
+  display: inline-flex;
+  height: 45.04px;
+  align-items: center;
+  justify-content: center;
+  gap: 5.93px;
+  padding: 5.93px;
+  position: relative;
+}
+
+.website-GDSC-UNSRI .text-wrapper-12 {
+  position: relative;
+  width: 120.5px;
+  font-family: "Poppins", Helvetica;
+  font-weight: 700;
+  color: #5f6368;
+  font-size: 17.5px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 26.2px;
+}
+
+.website-GDSC-UNSRI .frame-11 {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 8px;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.website-GDSC-UNSRI .ellipse {
+  position: relative;
+  width: 8px;
+  height: 8px;
+  background-color: var(--primarypr-600);
+  border-radius: 4px;
+}
+
+.website-GDSC-UNSRI .ellipse-2 {
+  position: relative;
+  width: 8px;
+  height: 8px;
+  background-color: var(--neutralne-300);
+  border-radius: 4px;
+}
+
+.website-GDSC-UNSRI .partners-section {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 64px;
+  padding: 64px 222px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+  z-index: 4;
+  background-color: var(--basebase-50);
+}
+
+.website-GDSC-UNSRI .heading-2 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 64px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.website-GDSC-UNSRI .frame-12 {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.website-GDSC-UNSRI .palembang-dig {
+  position: relative;
+  width: 183.45px;
+  height: 103.2px;
+}
+
+.website-GDSC-UNSRI .LOGO-UIUXINDO-png {
+  position: relative;
+  width: 104.42px;
+  height: 104.42px;
+}
+
+.website-GDSC-UNSRI .LOGO-game {
+  position: relative;
+  width: 105.08px;
+  height: 104.42px;
+}
+
+.website-GDSC-UNSRI .dicoding {
+  position: relative;
+  width: 183.45px;
+  height: 50.73px;
+}
+
+.website-GDSC-UNSRI .frame-13 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 32px;
+  padding: 64px 222px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+  z-index: 3;
+  background-color: var(--basebase-50);
+}
+
+.website-GDSC-UNSRI .frame-14 {
+  display: flex;
+  width: 1076px;
+  align-items: flex-start;
+  justify-content: space-between;
+  position: relative;
+  flex: 0 0 auto;
+  margin-left: -40px;
+  margin-right: -40px;
+}
+
+.website-GDSC-UNSRI .JPG {
+  position: relative;
+  width: 319.95px;
+  height: 239.96px;
+}
+
+.website-GDSC-UNSRI .chapter-videos {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 64px;
+  padding: 64px 222px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+  z-index: 2;
+  background-color: var(--basebase-50);
+}
+
+.website-GDSC-UNSRI .youtube-ppeview {
+  display: inline-flex;
+  align-items: flex-start;
+  gap: 420px;
+  position: relative;
+  flex: 0 0 auto;
+  margin-left: -40px;
+  margin-right: -40px;
+}
+
+.website-GDSC-UNSRI .image {
+  position: relative;
+  width: 1076px;
+  height: 609.36px;
+}
+
+.website-GDSC-UNSRI .contact-section {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 64px;
+  padding: 64px 222px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+  z-index: 1;
+  background-color: var(--basebase-50);
+}
+
+.website-GDSC-UNSRI .contact {
+  position: relative;
+  width: 1076px;
+  height: 48.4px;
+  margin-top: -1px;
+  margin-left: -40px;
+  margin-right: -40px;
+  font-family: var(--heading-h3-40px-bold-font-family);
+  font-weight: var(--heading-h3-40px-bold-font-weight);
+  color: var(--neutralneu-1000);
+  font-size: var(--heading-h3-40px-bold-font-size);
+  text-align: center;
+  letter-spacing: var(--heading-h3-40px-bold-letter-spacing);
+  line-height: var(--heading-h3-40px-bold-line-height);
+  white-space: nowrap;
+  font-style: var(--heading-h3-40px-bold-font-style);
+}
+
+.website-GDSC-UNSRI .CTA {
+  all: unset;
+  box-sizing: border-box;
+  display: flex;
+  width: 1076px;
+  align-items: center;
+  justify-content: center;
+  gap: 32px;
+  padding: 0px 96px;
+  position: relative;
+  flex: 0 0 auto;
+  margin-left: -40px;
+  margin-right: -40px;
+  margin-bottom: -88px;
+}
+
+.website-GDSC-UNSRI .messages {
+    display: flex;
+    height: 150px;
+    align-items: flex-start;
+    gap: 12px;
+    padding: 20px;
+    position: relative;
+    flex: 1;
+    flex-grow: 1;
+    background-color: var(--basebase-200);
+    border-radius: 16px;
+    overflow: hidden;
+    border: 1px solid;
+    border-color: var(--neutralne-100);
+}
+
+
+.website-GDSC-UNSRI .button-2 {
+  all: unset;
+  box-sizing: border-box;
+  display: flex;
+  height: 44px;
+  align-items: center;
+  justify-content: center;
+  gap: 8px;
+  padding: 10px 18px;
+  position: relative;
+  width: 127px;
+  background-color: var(--primarypr-600);
+  border-radius: 8px;
+  overflow: hidden;
+  border: 1px solid;
+  border-color: var(--primarypr-600);
+}
+
+.website-GDSC-UNSRI .text-4 {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  font-family: var(--body-xlarge-18px-medium-font-family);
+  font-weight: var(--body-xlarge-18px-medium-font-weight);
+  color: var(--basebase-50);
+  font-size: var(--body-xlarge-18px-medium-font-size);
+  letter-spacing: var(--body-xlarge-18px-medium-letter-spacing);
+  line-height: var(--body-xlarge-18px-medium-line-height);
+  white-space: nowrap;
+  font-style: var(--body-xlarge-18px-medium-font-style);
+}
+
+.website-GDSC-UNSRI .footer-section {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 32px;
+  padding: 64px 222px 32px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+  z-index: 0;
+  background-color: var(--basebase-50);
+}
+
+.website-GDSC-UNSRI .content {
+  display: flex;
+  width: 1076px;
+  align-items: flex-start;
+  gap: 64.82px;
+  position: relative;
+  flex: 0 0 auto;
+  margin-left: -40px;
+  margin-right: -40px;
+}
+
+.website-GDSC-UNSRI .logo-wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 65px;
+  position: relative;
+  flex: 1;
+  align-self: stretch;
+  flex-grow: 1;
+}
+
+.website-GDSC-UNSRI .logo-text-wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 34.57px;
+  position: relative;
+  flex: 1;
+  align-self: stretch;
+  width: 100%;
+  flex-grow: 1;
+}
+
+.website-GDSC-UNSRI .logo-text {
+  display: inline-flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 25.87px;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.website-GDSC-UNSRI .logo-gdsc {
+  position: relative;
+  width: 115.26px;
+  height: 55.77px;
+}
+
+.website-GDSC-UNSRI .text-wrapper-13 {
+  position: relative;
+  width: fit-content;
+  font-family: "Poppins", Helvetica;
+  font-weight: 400;
+  color: var(--neutralneu-500);
+  font-size: 19.4px;
+  letter-spacing: 0;
+  line-height: 29.1px;
+  white-space: nowrap;
+}
+
+.website-GDSC-UNSRI .social-media-items {
+  display: inline-flex;
+  align-items: flex-start;
+  gap: 11.01px;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.website-GDSC-UNSRI .item {
+  position: relative;
+  width: 37.85px;
+  height: 37.85px;
+  background-color: #eeeeee;
+  border-radius: 50px;
+}
+
+.website-GDSC-UNSRI .quick-links {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 16px;
+  position: relative;
+  flex: 1;
+  flex-grow: 1;
+}
+
+.website-GDSC-UNSRI .content-2 {
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 16px;
+  display: inline-flex;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.website-GDSC-UNSRI .text-wrapper-14 {
+  position: relative;
+  width: fit-content;
+  margin-top: -1.08px;
+  font-family: "Poppins", Helvetica;
+  font-weight: 700;
+  color: var(--neutralneu-1000);
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: 30.2px;
+  white-space: nowrap;
+}
+
+.website-GDSC-UNSRI .items {
+  display: inline-flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 6px;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.website-GDSC-UNSRI .menu {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 10.8px;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.website-GDSC-UNSRI .strong-about-2 {
+  margin-top: -1.08px;
+  font-weight: 400;
+  color: var(--neutralne-500);
+  font-size: 14px;
+  line-height: 25.9px;
+  position: relative;
+  width: fit-content;
+  font-family: "Poppins", Helvetica;
+  text-align: center;
+  letter-spacing: 0;
+  white-space: nowrap;
+}
+
+.website-GDSC-UNSRI .strong-about-2:hover{
+  color: #427EDE;
+  font-weight: 400;
+}
+
+
+.website-GDSC-UNSRI .copyright {
+  display: flex;
+  width: 1076px;
+  align-items: center;
+  justify-content: center;
+  padding: 32px 10px 0px;
+  position: relative;
+  flex: 0 0 auto;
+  margin-left: -40px;
+  margin-right: -40px;
+  border-top-width: 1px;
+  border-top-style: solid;
+  border-color: var(--neutralne-100);
+}
+
+.website-GDSC-UNSRI .content-3 {
+  align-items: center;
+  justify-content: center;
+  display: inline-flex;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.website-GDSC-UNSRI .element-google {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+  padding: 0px 12px;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.website-GDSC-UNSRI .text-wrapper-15 {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  font-family: var(--heading-h4-medium-font-family);
+  font-weight: var(--heading-h4-medium-font-weight);
+  color: var(--neutralne-900);
+  font-size: var(--heading-h4-medium-font-size);
+  text-align: center;
+  letter-spacing: var(--heading-h4-medium-letter-spacing);
+  line-height: var(--heading-h4-medium-line-height);
+  white-space: nowrap;
+  font-style: var(--heading-h4-medium-font-style);
+}
+
+.website-GDSC-UNSRI .line {
+  position: relative;
+  width: 1px;
+  height: 24px;
+  background-color: #424242;
+}
+
+.website-GDSC-UNSRI .powered-by-bevy {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 8px;
+  padding: 0px 12px;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.website-GDSC-UNSRI .image-2 {
+  position: relative;
+  width: 62.5px;
+  height: 22.5px;
+  object-fit: cover;
+}

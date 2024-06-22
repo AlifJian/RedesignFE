@@ -1,0 +1,24 @@
+@import url("https://cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.min.css");
+@import url("https://fonts.googleapis.com/css?family=Poppins:var(--body-large-16px-semi-font-weight),var(--body-large-16px-bold-font-weight),var(--heading-h4-32px-bold-font-weight),var(--heading-h3-40px-bold-font-weight),700,var(--body-xxlarge-24px-regular-font-weight),var(--body-xxlarge-24px-bold-font-weight),var(--body-xlarge-18px-medium-font-weight),500,400,var(--body-large-16px-regular-font-weight)|Roboto:var(--heading-h4-medium-font-weight)");
+* {
+  -webkit-font-smoothing: antialiased;
+  box-sizing: border-box;
+}
+html,
+body {
+  margin: 0px;
+  height: 100%;
+}
+/* a blue color as a generic focus style */
+button:focus-visible {
+  outline: 2px solid #4a90e2 !important;
+  outline: -webkit-focus-ring-color auto 5px !important;
+}
+a {
+  text-decoration: none;
+}
+@font-face {
+  font-family: "Font Awesome 6 Pro-Solid";
+  src: url("https://anima-uploads.s3.amazonaws.com/projects/604bac611956acf622fcb3ae/fonts/font-awesome-6-pro-solid-900.otf")
+    format("opentype");
+}
